@@ -4,7 +4,7 @@ import libraries.In;
 
 public class ue02_3 {
     public static void main(String[] args) {
-//Beispiel 3
+//Beispiel 3 ,
         double x = In.readDouble();
         double y = In.readDouble();
 
