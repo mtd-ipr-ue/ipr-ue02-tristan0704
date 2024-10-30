@@ -3,7 +3,7 @@ import libraries.Out;
 
 public class ue02_2 {
     public static void main(String[] args) {
-
+//bsp2
         int year = In.readInt();
         int month = In.readInt();
 
